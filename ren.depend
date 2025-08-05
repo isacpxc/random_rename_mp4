@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630017419 source:c:\users\lord\desktop\teste\ren\main.c
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<time.h>
+	<locale.h>
+	<errno.h>
+
